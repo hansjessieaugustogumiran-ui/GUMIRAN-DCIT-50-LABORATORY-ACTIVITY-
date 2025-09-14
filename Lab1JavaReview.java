@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lab1_JavaReview {
+public class Lab1JavaReview {
 
     private static final int MAX_BOOKS = 5; 
     private static String[] bookTitles = new String[MAX_BOOKS];
