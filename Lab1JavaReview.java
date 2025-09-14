@@ -150,5 +150,5 @@ public class Lab1_JavaReview {
 }
 
 // GUMIRAN, HANS JESSIE AUGUSTO M. - BSCS-2D
-// AI USED: GEMINI AI
+// AI USED: GEMINI AI - 2.5 FLASH
 // CONVERSATION LINK WITH GEMINI AI: https://g.co/gemini/share/a6c90c615686
